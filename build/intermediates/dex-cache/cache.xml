@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Rivu\AndroidStudioProjects\MyApp2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Rivu\AndroidStudioProjects\MyApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_657246053a5989f4b56fef399fb14c49174ee0ba\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Rivu\AndroidStudioProjects\MyApp2\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\Rivu\AndroidStudioProjects\MyApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_4caa22daa110d0aad40fceea4afed52f992843f9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Rivu\AndroidStudioProjects\MyApp2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Rivu\AndroidStudioProjects\MyApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_e5709ada1318c787b9c5dcf2523d968fa58b4680\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Rivu\AndroidStudioProjects\MyApp2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="49ff4e214ba3fda0cd62c321fc61fbb67d30cf31">
+        <dex dex="C:\Users\Rivu\AndroidStudioProjects\MyApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d29f76bd5922d84ce99fba208681e324d24726d1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Rivu\AndroidStudioProjects\MyApp2\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="C:\Users\Rivu\AndroidStudioProjects\MyApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.2.1_87ca3efdc0fa429d8c9a59cf48c0f7f3bb11f5eb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Rivu\AndroidStudioProjects\MyApp2\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Rivu\AndroidStudioProjects\MyApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_641f7ac60070f39628da42fe54cbfc2803732a96\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Rivu\AndroidStudioProjects\MyApp2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Rivu\AndroidStudioProjects\MyApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_f6d7093a49df10802f2420648ee9ea60983dc77e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Rivu\AndroidStudioProjects\MyApp2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Rivu\AndroidStudioProjects\MyApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_157927f1aa80ede05779d15a88114c11056882e6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Rivu\AndroidStudioProjects\MyApp2\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Rivu\AndroidStudioProjects\MyApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_632e008b53ffb1f49681253835110ee07bd77169\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Rivu\AndroidStudioProjects\MyApp2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="010c244e85ba916c618ebafe080785b0f7f5b568">
+        <dex dex="C:\Users\Rivu\AndroidStudioProjects\MyApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e1548c15e9aa57d9366ec51dec2517b6f9e498f5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Rivu\AndroidStudioProjects\MyApp2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Rivu\AndroidStudioProjects\MyApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_2c8537d0c487b9b49d8c939a0c8584a3c65d64e2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Rivu\AndroidStudioProjects\MyApp2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Rivu\AndroidStudioProjects\MyApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_5b093beb6cecf8fa16fdffb770bdf5da3a58331e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Rivu\AndroidStudioProjects\MyApp2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\Rivu\AndroidStudioProjects\MyApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_e6dfdc254b4f7f89b45696ff160152892c68f542\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Rivu\AndroidStudioProjects\MyApp2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Rivu\AndroidStudioProjects\MyApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_96e47254975bd7c75508e165cc6a4075556ec173\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Rivu\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Rivu\AndroidStudioProjects\MyApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_04cb2e7d17061c6066cdc613409d37b3fa3e039b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Rivu\AndroidStudioProjects\MyApp2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Rivu\AndroidStudioProjects\MyApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_2e845592455b7ca10bb5404c24f6ff97af3717d0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Rivu\AndroidStudioProjects\MyApp2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Rivu\AndroidStudioProjects\MyApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_2ba732d69a686b00e8e8a25884611dd3741fe712\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Rivu\AndroidStudioProjects\MyApp2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Rivu\AndroidStudioProjects\MyApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_2ab7e8ca4fb486e92fdb435ff348faafc0641a16\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Rivu\AndroidStudioProjects\MyApp2\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Rivu\AndroidStudioProjects\MyApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_07d06a08653088af57d5cef117c861635d19ebc3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Rivu\AndroidStudioProjects\MyApp2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Rivu\AndroidStudioProjects\MyApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_f8da73864ae39c7768b622817a5083b6d69e3443\classes.dex" />
+    </item>
+
+</items>

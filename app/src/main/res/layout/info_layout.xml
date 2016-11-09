@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#750612e4"
+    >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Enter Title"
+        android:textColor="#FFFFFF"
+        android:id="@+id/textView"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="57dp" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textEmailAddress"
+        android:ems="10"
+        android:textColor="#FFFFFF"
+        android:id="@+id/infoTitle"
+        android:layout_below="@+id/textView"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Enter Description"
+        android:id="@+id/textView3"
+        android:textColor="#FFFFFF"
+        android:layout_below="@+id/infoTitle"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="38dp" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textEmailAddress"
+        android:ems="10"
+        android:id="@+id/infoDesc"
+        android:textColor="#FFFFFF"
+        android:layout_below="@+id/textView3"
+        android:layout_alignStart="@+id/infoTitle"
+        android:layout_marginTop="41dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CONFIRM"
+        android:background="#850612e4"
+        android:id="@+id/infoButton"
+        android:textColor="#FFFFFF"
+        android:layout_below="@+id/infoDesc"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="48dp" />
+</RelativeLayout>
